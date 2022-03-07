@@ -1,3 +1,3 @@
 # Prueba-1
-Practica Data Science
-readme
+## edditing the file
+Itn a markdown file in this repository
